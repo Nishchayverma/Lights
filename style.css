@@ -33,20 +33,20 @@ left: 150px;
       
   }
   .changeButtonColor{
-    background-color: #FFFF00;
+    background-color: #111;
   }
   .change{
       cursor: pointer;
-      width: 200px;
-      height: 80px;
+      width: 300px;
+      height: 70px;
       display: grid;
       justify-content: center;
       align-items: center;
-      background-color: #F5F5F5;
+      background-color: #F5F5F6;
 color: #3d3d3d;
 font-size: 25px;
 border-radius: 10px;
-margin-bottom: 50px;
+margin-bottom: 55px;
   }
   .changeLight1,.changeLight2,.changeLight3,.changeLight4{
     cursor: pointer;
